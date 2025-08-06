@@ -1,0 +1,155 @@
+ECS running with 500 stations, 1100 satellites, 2 numWGs and 2 numBlocks for 10 rounds in 1 parallel pattern
+2025/08/05 11:50:48 StationSystem update...
+2025/08/05 11:50:48 weather update count: 500
+2025/08/05 11:50:48 SatelliteSystem update...
+2025/08/05 11:50:48 StationSystem update time: 4.81µs
+2025/08/05 11:50:48 satellite count: 1100
+2025/08/05 11:50:48 SatelliteSystem update time: 4.194211ms
+2025/08/05 11:50:48 TopoSystem update...
+2025/08/05 11:50:48 TopoSystem: Link count: 550000
+2025/08/05 11:50:48 TopoSystem update time: 17.172004ms
+2025/08/05 11:50:48 AttenuationSystem update...
+2025/08/05 11:50:48 AttenuationSystem parallel flag: 1
+2025/08/05 11:50:49 Attenuation computed count: 550000
+2025/08/05 11:50:49 AttenuationSystem update time: 629.289494ms
+2025/08/05 11:50:49 Run 1 complete
+2025/08/05 11:50:49 StationSystem update...
+2025/08/05 11:50:49 SatelliteSystem update...
+2025/08/05 11:50:49 weather update count: 500
+2025/08/05 11:50:49 StationSystem update time: 5.686µs
+2025/08/05 11:50:49 satellite count: 1100
+2025/08/05 11:50:49 SatelliteSystem update time: 3.135288ms
+2025/08/05 11:50:49 TopoSystem update...
+2025/08/05 11:50:49 TopoSystem: Link count: 550000
+2025/08/05 11:50:49 TopoSystem update time: 10.499899ms
+2025/08/05 11:50:49 AttenuationSystem update...
+2025/08/05 11:50:49 AttenuationSystem parallel flag: 1
+2025/08/05 11:50:49 Attenuation computed count: 550000
+2025/08/05 11:50:49 AttenuationSystem update time: 470.56746ms
+2025/08/05 11:50:49 Run 2 complete
+2025/08/05 11:50:49 StationSystem update...
+2025/08/05 11:50:49 weather update count: 500
+2025/08/05 11:50:49 StationSystem update time: 8.962µs
+2025/08/05 11:50:49 SatelliteSystem update...
+2025/08/05 11:50:49 satellite count: 1100
+2025/08/05 11:50:49 SatelliteSystem update time: 3.867943ms
+2025/08/05 11:50:49 TopoSystem update...
+2025/08/05 11:50:49 TopoSystem: Link count: 550000
+2025/08/05 11:50:49 TopoSystem update time: 20.657547ms
+2025/08/05 11:50:49 AttenuationSystem update...
+2025/08/05 11:50:49 AttenuationSystem parallel flag: 1
+2025/08/05 11:50:50 Attenuation computed count: 550000
+2025/08/05 11:50:50 AttenuationSystem update time: 669.168148ms
+2025/08/05 11:50:50 Run 3 complete
+2025/08/05 11:50:50 StationSystem update...
+2025/08/05 11:50:50 weather update count: 500
+2025/08/05 11:50:50 StationSystem update time: 4.851µs
+2025/08/05 11:50:50 SatelliteSystem update...
+2025/08/05 11:50:50 satellite count: 1100
+2025/08/05 11:50:50 SatelliteSystem update time: 4.218863ms
+2025/08/05 11:50:50 TopoSystem update...
+2025/08/05 11:50:50 TopoSystem: Link count: 550000
+2025/08/05 11:50:50 TopoSystem update time: 26.225373ms
+2025/08/05 11:50:50 AttenuationSystem update...
+2025/08/05 11:50:50 AttenuationSystem parallel flag: 1
+2025/08/05 11:50:50 Attenuation computed count: 550000
+2025/08/05 11:50:50 AttenuationSystem update time: 609.302061ms
+2025/08/05 11:50:50 Run 4 complete
+2025/08/05 11:50:50 StationSystem update...
+2025/08/05 11:50:50 weather update count: 500
+2025/08/05 11:50:50 StationSystem update time: 3.247µs
+2025/08/05 11:50:50 SatelliteSystem update...
+2025/08/05 11:50:50 satellite count: 1100
+2025/08/05 11:50:50 SatelliteSystem update time: 3.111403ms
+2025/08/05 11:50:50 TopoSystem update...
+2025/08/05 11:50:50 TopoSystem: Link count: 550000
+2025/08/05 11:50:50 TopoSystem update time: 21.014693ms
+2025/08/05 11:50:50 AttenuationSystem update...
+2025/08/05 11:50:50 AttenuationSystem parallel flag: 1
+2025/08/05 11:50:51 Attenuation computed count: 550000
+2025/08/05 11:50:51 AttenuationSystem update time: 657.009998ms
+2025/08/05 11:50:51 Run 5 complete
+2025/08/05 11:50:51 StationSystem update...
+2025/08/05 11:50:51 weather update count: 500
+2025/08/05 11:50:51 StationSystem update time: 3.877µs
+2025/08/05 11:50:51 SatelliteSystem update...
+2025/08/05 11:50:51 satellite count: 1100
+2025/08/05 11:50:51 SatelliteSystem update time: 4.179653ms
+2025/08/05 11:50:51 TopoSystem update...
+2025/08/05 11:50:51 TopoSystem: Link count: 550000
+2025/08/05 11:50:51 TopoSystem update time: 9.696857ms
+2025/08/05 11:50:51 AttenuationSystem update...
+2025/08/05 11:50:51 AttenuationSystem parallel flag: 1
+2025/08/05 11:50:52 Attenuation computed count: 550000
+2025/08/05 11:50:52 AttenuationSystem update time: 661.56226ms
+2025/08/05 11:50:52 Run 6 complete
+2025/08/05 11:50:52 StationSystem update...
+2025/08/05 11:50:52 weather update count: 500
+2025/08/05 11:50:52 StationSystem update time: 2.775µs
+2025/08/05 11:50:52 SatelliteSystem update...
+2025/08/05 11:50:52 satellite count: 1100
+2025/08/05 11:50:52 SatelliteSystem update time: 3.114012ms
+2025/08/05 11:50:52 TopoSystem update...
+2025/08/05 11:50:52 TopoSystem: Link count: 550000
+2025/08/05 11:50:52 TopoSystem update time: 20.79803ms
+2025/08/05 11:50:52 AttenuationSystem update...
+2025/08/05 11:50:52 AttenuationSystem parallel flag: 1
+2025/08/05 11:50:52 Attenuation computed count: 550000
+2025/08/05 11:50:52 AttenuationSystem update time: 662.906797ms
+2025/08/05 11:50:52 Run 7 complete
+2025/08/05 11:50:52 StationSystem update...
+2025/08/05 11:50:52 weather update count: 500
+2025/08/05 11:50:52 StationSystem update time: 13.234µs
+2025/08/05 11:50:52 SatelliteSystem update...
+2025/08/05 11:50:52 satellite count: 1100
+2025/08/05 11:50:52 SatelliteSystem update time: 4.575628ms
+2025/08/05 11:50:52 TopoSystem update...
+2025/08/05 11:50:52 TopoSystem: Link count: 550000
+2025/08/05 11:50:52 TopoSystem update time: 34.51079ms
+2025/08/05 11:50:52 AttenuationSystem update...
+2025/08/05 11:50:52 AttenuationSystem parallel flag: 1
+2025/08/05 11:50:53 Attenuation computed count: 550000
+2025/08/05 11:50:53 AttenuationSystem update time: 660.572389ms
+2025/08/05 11:50:53 Run 8 complete
+2025/08/05 11:50:53 StationSystem update...
+2025/08/05 11:50:53 weather update count: 500
+2025/08/05 11:50:53 StationSystem update time: 4.174µs
+2025/08/05 11:50:53 SatelliteSystem update...
+2025/08/05 11:50:53 satellite count: 1100
+2025/08/05 11:50:53 SatelliteSystem update time: 4.197252ms
+2025/08/05 11:50:53 TopoSystem update...
+2025/08/05 11:50:53 TopoSystem: Link count: 550000
+2025/08/05 11:50:53 TopoSystem update time: 17.097165ms
+2025/08/05 11:50:53 AttenuationSystem update...
+2025/08/05 11:50:53 AttenuationSystem parallel flag: 1
+2025/08/05 11:50:54 Attenuation computed count: 550000
+2025/08/05 11:50:54 AttenuationSystem update time: 670.30226ms
+2025/08/05 11:50:54 Run 9 complete
+2025/08/05 11:50:54 StationSystem update...
+2025/08/05 11:50:54 weather update count: 500
+2025/08/05 11:50:54 StationSystem update time: 4.515µs
+2025/08/05 11:50:54 SatelliteSystem update...
+2025/08/05 11:50:54 satellite count: 1100
+2025/08/05 11:50:54 SatelliteSystem update time: 3.125011ms
+2025/08/05 11:50:54 TopoSystem update...
+2025/08/05 11:50:54 TopoSystem: Link count: 550000
+2025/08/05 11:50:54 TopoSystem update time: 8.443851ms
+2025/08/05 11:50:54 AttenuationSystem update...
+2025/08/05 11:50:54 AttenuationSystem parallel flag: 1
+2025/08/05 11:50:54 Attenuation computed count: 550000
+2025/08/05 11:50:54 AttenuationSystem update time: 601.911962ms
+2025/08/05 11:50:54 Run 10 complete
+2025/08/05 11:50:54 Total update time:  6.523871003s
+2025/08/05 11:50:54 linkCache size: 40
+
+ Performance counter stats for './scale_ecs 500 1100 10 2 2 1':
+
+        14,241,646      cache-references                                                      
+         4,001,765      cache-misses                     #   28.10% of all cache refs         
+
+       6.530020649 seconds time elapsed
+
+      12.387864000 seconds user
+       0.133998000 seconds sys
+
+
