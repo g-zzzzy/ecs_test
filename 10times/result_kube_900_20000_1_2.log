@@ -1,0 +1,155 @@
+KubeDemo running with 900 stations and 20000 satellites for 10 rounds
+2025/08/13 02:37:05 updateSatellitePositions...
+2025/08/13 02:37:06 satellite count: 20000
+2025/08/13 02:37:06 updateSatellitePositions took 86.54257ms
+2025/08/13 02:37:06 MakeLinks...
+2025/08/13 02:37:08 links: 18000000
+2025/08/13 02:37:08 MakeLinks took 2.142018599s
+2025/08/13 02:37:08 updateEnvironmentIndex...
+2025/08/13 02:37:08 updateEnvironmentIndex count: 900
+2025/08/13 02:37:08 updateEnvironmentIndex took 12.078µs
+2025/08/13 02:37:08 updateLinkProperties...
+2025/08/13 02:37:24 updateLinkProperties count: 18000000
+2025/08/13 02:37:24 updateLinkProperties took 16.02087174s
+2025/08/13 02:37:24 links count:  18000000
+2025/08/13 02:37:24 Run 1 complete
+2025/08/13 02:37:24 updateSatellitePositions...
+2025/08/13 02:37:24 satellite count: 20000
+2025/08/13 02:37:24 updateSatellitePositions took 68.199332ms
+2025/08/13 02:37:24 MakeLinks...
+2025/08/13 02:37:27 links: 18000000
+2025/08/13 02:37:27 MakeLinks took 2.969592789s
+2025/08/13 02:37:27 updateEnvironmentIndex...
+2025/08/13 02:37:27 updateEnvironmentIndex count: 900
+2025/08/13 02:37:27 updateEnvironmentIndex took 11.527µs
+2025/08/13 02:37:27 updateLinkProperties...
+2025/08/13 02:37:43 updateLinkProperties count: 18000000
+2025/08/13 02:37:43 updateLinkProperties took 15.785220129s
+2025/08/13 02:37:43 links count:  18000000
+2025/08/13 02:37:43 Run 2 complete
+2025/08/13 02:37:43 updateSatellitePositions...
+2025/08/13 02:37:43 satellite count: 20000
+2025/08/13 02:37:43 updateSatellitePositions took 60.396419ms
+2025/08/13 02:37:43 MakeLinks...
+2025/08/13 02:37:46 links: 18000000
+2025/08/13 02:37:46 MakeLinks took 3.196300444s
+2025/08/13 02:37:46 updateEnvironmentIndex...
+2025/08/13 02:37:46 updateEnvironmentIndex count: 900
+2025/08/13 02:37:46 updateEnvironmentIndex took 17.787µs
+2025/08/13 02:37:46 updateLinkProperties...
+2025/08/13 02:38:02 updateLinkProperties count: 18000000
+2025/08/13 02:38:02 updateLinkProperties took 16.647093392s
+2025/08/13 02:38:02 links count:  18000000
+2025/08/13 02:38:02 Run 3 complete
+2025/08/13 02:38:02 updateSatellitePositions...
+2025/08/13 02:38:03 satellite count: 20000
+2025/08/13 02:38:03 updateSatellitePositions took 58.740635ms
+2025/08/13 02:38:03 MakeLinks...
+2025/08/13 02:38:05 links: 18000000
+2025/08/13 02:38:05 MakeLinks took 2.781081645s
+2025/08/13 02:38:05 updateEnvironmentIndex...
+2025/08/13 02:38:05 updateEnvironmentIndex count: 900
+2025/08/13 02:38:05 updateEnvironmentIndex took 10.067µs
+2025/08/13 02:38:05 updateLinkProperties...
+2025/08/13 02:38:21 updateLinkProperties count: 18000000
+2025/08/13 02:38:21 updateLinkProperties took 15.852393978s
+2025/08/13 02:38:21 links count:  18000000
+2025/08/13 02:38:21 Run 4 complete
+2025/08/13 02:38:21 updateSatellitePositions...
+2025/08/13 02:38:21 satellite count: 20000
+2025/08/13 02:38:21 updateSatellitePositions took 58.242883ms
+2025/08/13 02:38:21 MakeLinks...
+2025/08/13 02:38:23 links: 18000000
+2025/08/13 02:38:23 MakeLinks took 2.284661132s
+2025/08/13 02:38:23 updateEnvironmentIndex...
+2025/08/13 02:38:23 updateEnvironmentIndex count: 900
+2025/08/13 02:38:23 updateEnvironmentIndex took 20.007µs
+2025/08/13 02:38:23 updateLinkProperties...
+2025/08/13 02:38:41 updateLinkProperties count: 18000000
+2025/08/13 02:38:41 updateLinkProperties took 17.958294459s
+2025/08/13 02:38:41 links count:  18000000
+2025/08/13 02:38:41 Run 5 complete
+2025/08/13 02:38:41 updateSatellitePositions...
+2025/08/13 02:38:42 satellite count: 20000
+2025/08/13 02:38:42 updateSatellitePositions took 63.239086ms
+2025/08/13 02:38:42 MakeLinks...
+2025/08/13 02:38:45 links: 18000000
+2025/08/13 02:38:45 MakeLinks took 3.438713167s
+2025/08/13 02:38:45 updateEnvironmentIndex...
+2025/08/13 02:38:45 updateEnvironmentIndex count: 900
+2025/08/13 02:38:45 updateEnvironmentIndex took 15.589µs
+2025/08/13 02:38:45 updateLinkProperties...
+2025/08/13 02:39:03 updateLinkProperties count: 18000000
+2025/08/13 02:39:03 updateLinkProperties took 18.181216899s
+2025/08/13 02:39:03 links count:  18000000
+2025/08/13 02:39:03 Run 6 complete
+2025/08/13 02:39:03 updateSatellitePositions...
+2025/08/13 02:39:03 satellite count: 20000
+2025/08/13 02:39:03 updateSatellitePositions took 60.471168ms
+2025/08/13 02:39:03 MakeLinks...
+2025/08/13 02:39:05 links: 18000000
+2025/08/13 02:39:05 MakeLinks took 1.567887057s
+2025/08/13 02:39:05 updateEnvironmentIndex...
+2025/08/13 02:39:05 updateEnvironmentIndex count: 900
+2025/08/13 02:39:05 updateEnvironmentIndex took 9.882µs
+2025/08/13 02:39:05 updateLinkProperties...
+2025/08/13 02:39:21 updateLinkProperties count: 18000000
+2025/08/13 02:39:21 updateLinkProperties took 15.8594605s
+2025/08/13 02:39:21 links count:  18000000
+2025/08/13 02:39:21 Run 7 complete
+2025/08/13 02:39:21 updateSatellitePositions...
+2025/08/13 02:39:21 satellite count: 20000
+2025/08/13 02:39:21 updateSatellitePositions took 58.090506ms
+2025/08/13 02:39:21 MakeLinks...
+2025/08/13 02:39:23 links: 18000000
+2025/08/13 02:39:23 MakeLinks took 2.181398607s
+2025/08/13 02:39:23 updateEnvironmentIndex...
+2025/08/13 02:39:23 updateEnvironmentIndex count: 900
+2025/08/13 02:39:23 updateEnvironmentIndex took 10.119µs
+2025/08/13 02:39:23 updateLinkProperties...
+2025/08/13 02:39:39 updateLinkProperties count: 18000000
+2025/08/13 02:39:39 updateLinkProperties took 16.107250055s
+2025/08/13 02:39:39 links count:  18000000
+2025/08/13 02:39:39 Run 8 complete
+2025/08/13 02:39:39 updateSatellitePositions...
+2025/08/13 02:39:39 satellite count: 20000
+2025/08/13 02:39:39 updateSatellitePositions took 58.402113ms
+2025/08/13 02:39:39 MakeLinks...
+2025/08/13 02:39:41 links: 18000000
+2025/08/13 02:39:41 MakeLinks took 1.642879813s
+2025/08/13 02:39:41 updateEnvironmentIndex...
+2025/08/13 02:39:41 updateEnvironmentIndex count: 900
+2025/08/13 02:39:41 updateEnvironmentIndex took 11.976µs
+2025/08/13 02:39:41 updateLinkProperties...
+2025/08/13 02:39:57 updateLinkProperties count: 18000000
+2025/08/13 02:39:57 updateLinkProperties took 15.843021959s
+2025/08/13 02:39:57 links count:  18000000
+2025/08/13 02:39:57 Run 9 complete
+2025/08/13 02:39:57 updateSatellitePositions...
+2025/08/13 02:39:57 satellite count: 20000
+2025/08/13 02:39:57 updateSatellitePositions took 59.687605ms
+2025/08/13 02:39:57 MakeLinks...
+2025/08/13 02:39:58 links: 18000000
+2025/08/13 02:39:58 MakeLinks took 1.57233964s
+2025/08/13 02:39:58 updateEnvironmentIndex...
+2025/08/13 02:39:58 updateEnvironmentIndex count: 900
+2025/08/13 02:39:58 updateEnvironmentIndex took 13.629µs
+2025/08/13 02:39:58 updateLinkProperties...
+2025/08/13 02:40:14 updateLinkProperties count: 18000000
+2025/08/13 02:40:14 updateLinkProperties took 15.873795003s
+2025/08/13 02:40:14 links count:  18000000
+2025/08/13 02:40:14 Run 10 complete
+2025/08/13 02:40:14 interval =  3m8.629485684s
+2025/08/13 02:40:14 linkCache size: 40
+
+ Performance counter stats for './scale_kube 900 20000 10 2':
+
+       381,074,071      LLC-loads                                                             
+       152,611,530      LLC-load-misses                  #   40.05% of all LL-cache accesses  
+
+     188.872957502 seconds time elapsed
+
+     373.167869000 seconds user
+      32.683162000 seconds sys
+
+
